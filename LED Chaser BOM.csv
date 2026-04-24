@@ -1,0 +1,12 @@
+"HARDWARE EXPENSES  (materials & components for activities), keep all receipts",,,,,,,,,
+#,Item Name,State ,Justification,Link,Unit Price (USD),Quantity,Total (USD),Category,Notes
+1,jumper wires,not bought ,for activity/introduction to hardware for beginners ,https://makerselectronics.com/product/jumper-wires-for-breadboard-65/,$0.77,5,$3.86,component,a kit of wires enoug for one circuit
+2,breadboard ,not bought ,making a prototype,https://makerselectronics.com/product/breadboard-830-point-splitted-power/,$0.68,15,$10.13,material ,
+3,metal potentiometer 100k,not bought ,controlling the speed of leds,https://makerselectronics.com/product/metal-potentiometer-100k%cf%89-3-pin/,$0.11,15,$1.59,component ,
+4,1k resistor ,not bought ,part of the circuit,https://makerselectronics.com/product/carbon-resistor-1k%cf%89-0-25w/,$0.00,30,$0.09,component ,
+5,10k resistor ,not bought ,part of the circuit,https://makerselectronics.com/product/2pcs-carbon-resistor-10k%cf%89-0-25w-thr/,$0.00,30,$0.09,component ,
+6,220 ohm resistor ,not bought ,part of the circuit,https://makerselectronics.com/product/carbon-resistor-220%cf%89-0-25w/,$0.00,100,$0.29,component ,
+7,leds (diffrent colors) ,not bought ,leds ,https://makerselectronics.com/product/round-transparent-led-5mm-2pin/,$0.01,80,$0.77,component ,
+8,capacitor 10 uF,not bought ,part of the circuit,https://makerselectronics.com/product/capacitor-10uf-25v-4x7mm/,$0.01,20,$0.29,component ,
+9,cd4017 ic,not bought ,decade counter ic,https://makerselectronics.com/product/4017-ic-hex-d-type-flip-flop-dip-16/,$0.16,15,$2.46,component ,
+10,ne555 ic ,not bought ,timer ic,https://makerselectronics.com/product/ne555-timer-ic-dip-8/,$0.08,15,$1.16,component ,
